@@ -1,6 +1,6 @@
 {
   "name": "cronit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https:/cronit.app", 
   "description": "JS bindings for Cronit API",
   "main": "index.js",
@@ -21,7 +21,6 @@
   "bugs": {
     "url": "https://github.com/Cronit-app/binding-npm/issues"
   },
-  "homepage": "https://github.com/Cronit-app/binding-npm#readme",
   "dependencies": {
     "axios": "^0.27.2"
   }
