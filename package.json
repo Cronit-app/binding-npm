@@ -1,6 +1,6 @@
 {
   "name": "cronit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JS bindings for Cronit API",
   "main": "index.js",
   "scripts": {
